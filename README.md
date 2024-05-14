@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Kilian, a Computer Science student from Karlsruhe Instifute of Technology.
+
+I'm all over Technology🧑🏻‍💻, AI🤖 and Science🔭
+
 <!--
 **kiliaaaaan/kiliaaaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
